@@ -74,3 +74,7 @@ if a %b == s:
     print ("Верно")
 else:
     print ("Неверно")
+
+
+
+# asdkasdklasjdkldjask
